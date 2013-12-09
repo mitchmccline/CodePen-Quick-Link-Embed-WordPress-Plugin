@@ -20,7 +20,7 @@
  * Text Domain: codepen-quick-link-embed
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- *
+ * GitHub Plugin URI: https://github.com/mitchmccline/CodePen-Quick-Link-Embed-WordPress-Plugin/
  */
 
 /*  Copyright YEAR  Mitch McCline  (email : contact@mitchmccline.com)
