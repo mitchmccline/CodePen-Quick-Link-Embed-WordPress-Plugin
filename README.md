@@ -13,3 +13,5 @@ How to Install
 * Upload the **codepen-quick-link-embed** directory from this repo to your WordPress plugins directory. EX: /wp-content/plugins/
 * Activate the plugin in the Admin Panel
 * Start pasting the url for your favorite pens on CodePen into your posts.
+* The embed handler uses the standard CodePen embed code except the string that is the name of the pen included in standard embed code is not included becuase it is not included in the url. 
+* 
